@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 
+
 st.title("Iris ML app")
 
 model_path = "model.pkl"
